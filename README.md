@@ -4,7 +4,7 @@ A dynamic travel website that can be used to browse adventures and make reservat
 ## Inspiration
 Wanted to create dynamically rendered web-pages with a functional backend. Fetching data from the back-end and displaying it on the frontend. Also wanted to learn about unit testing to test the functionalities. 
 
-## Tasks that I have completed
+## Tasks I have completed
 This project is more focused on the front-end, with heavy use of REST API calls, POST and GET methods using fetch etc. Nonetheless it has a working backend using node.js and express and unit tests as well.
 * Created web pages using HTML and CSS and made them dynamic using JavaScript
 * Improved UX with multi-select filters, image carousels
